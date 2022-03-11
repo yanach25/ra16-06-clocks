@@ -1,0 +1,8 @@
+.App {
+    margin: 10px 10px;
+}
+
+.clocks-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}

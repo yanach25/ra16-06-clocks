@@ -1,0 +1,15 @@
+.clock {
+    margin: 10px;
+    color: yellow;
+    background: darkblue;
+    padding: 10px;
+    position: relative;
+    min-width: 90px;
+}
+
+.clock-remover {
+    position: absolute;
+    top: 0;
+    right: 3px;
+    cursor: pointer;
+}

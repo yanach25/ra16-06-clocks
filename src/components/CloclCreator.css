@@ -1,0 +1,13 @@
+.clock-creator {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.clock-creator label {
+    margin-bottom: 10px;
+}
+
+.clock-creator input {
+    margin-left: 10px;
+}
